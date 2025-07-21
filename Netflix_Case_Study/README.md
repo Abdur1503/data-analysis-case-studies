@@ -1,20 +1,20 @@
 # 📊 Netflix Content Strategy – Data Analysis Case Study
-📝 Problem Statement:
+## 📝 Problem Statement:
 Analyze the Netflix content dataset to generate actionable insights on what types of shows/movies Netflix should invest in and how they can grow across different countries.
 
-📂 Dataset:
+## 📂 Dataset:
 Source: NetflixIntro.csv
 
 8,807 unique records of Netflix content including title, type, country, release year, genre, rating, duration, etc.
 
-🔧 Tools & Libraries Used:
+## 🔧 Tools & Libraries Used:
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Jupyter Notebook / Google Colab
 
 Data Cleaning, Wrangling, EDA
 
-🧹 Data Cleaning Highlights:
+## 🧹 Data Cleaning Highlights:
 Converted date_added to datetime and handled missing/null values
 
 Exploded comma-separated fields (country, director, cast, listed_in) for granular analysis
@@ -23,7 +23,7 @@ Standardized and grouped genres (e.g., merging similar types like "TV Dramas" an
 
 Handled incorrect and inconsistent entries in rating, duration, and other key fields
 
-📈 Key Insights:
+## 📈 Key Insights:
 Top Countries by Content Production:
 
 USA, India, and the UK dominate in number of shows/movies.
@@ -54,7 +54,7 @@ Significant growth in content post-2015.
 
 Anomalies (like content listed before release) were identified and filtered.
 
-📌 Conclusions & Recommendations:
+## 📌 Conclusions & Recommendations:
 Localized Content Investment:
 
 Continue focusing on markets like India, UK, South Korea.
