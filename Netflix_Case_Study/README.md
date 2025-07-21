@@ -1,4 +1,4 @@
-#📊 Netflix Content Strategy – Data Analysis Case Study
+# 📊 Netflix Content Strategy – Data Analysis Case Study
 📝 Problem Statement:
 Analyze the Netflix content dataset to generate actionable insights on what types of shows/movies Netflix should invest in and how they can grow across different countries.
 
