@@ -9,7 +9,6 @@ Analyzed hourly rental data to identify factors influencing electric bike usage 
 - Conducted Mann–Whitney U tests to compare weekday vs weekend demand  
 - Visualized peak demand cycles across time intervals  
 
-## 2.Reccomendation
 
 
 ### ✅ **Final Recommendation: Strategic Optimization of Bike Rental Operations**
