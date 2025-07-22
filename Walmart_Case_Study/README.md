@@ -1,7 +1,7 @@
 ## 🛒 Walmart Purchase Behavior Analysis  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x50c045j8xlJWq2rJG4QF7bRHGSVVeaF)
 
-Analyzed 550,000+ customer transactions to identify patterns in consumer behavior based on age, gender, location, and product category.
+Cleaned and analyzed 550,000+ transaction records. Used visualizations and statistical tools like Box-Cox transformations, confidence intervals, and distribution analysis to segment customers by gender, city, age, and marital status.
 
 ### 📊 Key Tasks:
 - Performed EDA on demographics and purchase data  
