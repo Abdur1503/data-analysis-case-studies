@@ -10,14 +10,32 @@ Cleaned and analyzed 550,000+ transaction records. Used visualizations and stati
 - Identified top-selling and underperforming products  
 
 ### 🔍 Findings:
-- Male customers accounted for ~75% of all transactions  
-- City Category A had the highest volume of purchases  
-- Top 10 product IDs had significant variance in purchase amounts  
-- Majority of product sales were skewed, indicating a long-tail distribution  
+# Recommendation:
 
-📎 **View Notebook**: [GitHub Repo](https://github.com/Abdur1503/data-analysis-case-studies/blob/main/Walmart_Case_Study/Walmart.ipynb)
+1.  Males exhibit significantly higher purchase amounts than females.
 
-🧾 **CV Line**:  
-**Walmart Consumer Insights (Data Analysis Project)**  
-Performed exploratory analysis on 550K+ transactions to uncover demographic trends and product performance. Delivered actionable insights on customer segmentation and purchasing behavior.  
-GitHub: https://github.com/Abdur1503/data-analysis-case-studies/edit/main/Walmart_Case_Study
+      1.  Tailor premium product offerings or upsell strategies more toward male customers, especially in high-value categories.
+
+      2. Launch female-focused promotions (e.g., bundles or discounts) to incentivize higher purchase volumes and bridge the spending gap.
+
+1. Create exclusive loyalty programs or premium product lines for the 51–55 age group.
+
+2. Segment marketing communications by age group, especially for 55+, using their preferred categories (e.g., comfort-focused, tech-simplified).
+
+3. Prioritize inventory and delivery logistics for Category C cities.
+
+4. Run geographically targeted campaigns, emphasizing higher-value product lines in Category C areas.
+
+5. Ensure sufficient stock and marketing focus on Product 5.
+
+6. Use gender-specific product recommendations: Suggest Product 17/18 to males, Product 14/12 to females.
+
+
+7. On digital platforms, implement AI-driven recommendation engines:
+
+8. For male users: Prioritize Categories 1, 5, 11, 17, and 18.
+
+9. For female users: Emphasize Categories 5, 8, and 14.
+
+10. Use gender-specific ad creatives highlighting relevant products.
+
