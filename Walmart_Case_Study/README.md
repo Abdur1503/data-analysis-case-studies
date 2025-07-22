@@ -15,7 +15,7 @@ Analyzed 550,000+ customer transactions to identify patterns in consumer behavio
 - Top 10 product IDs had significant variance in purchase amounts  
 - Majority of product sales were skewed, indicating a long-tail distribution  
 
-📎 **View Notebook**: [GitHub Repo]([https://github.com/Abdur1503/data-analysis-case-studies/edit/main/Walmart_Case_Study/README.md](https://github.com/Abdur1503/data-analysis-case-studies/blob/main/Walmart_Case_Study/Walmart.ipynb))
+📎 **View Notebook**: [GitHub Repo](https://github.com/Abdur1503/data-analysis-case-studies/blob/main/Walmart_Case_Study/Walmart.ipynb)
 
 🧾 **CV Line**:  
 **Walmart Consumer Insights (Data Analysis Project)**  
