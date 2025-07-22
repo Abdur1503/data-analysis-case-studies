@@ -15,5 +15,5 @@ This portfolio showcases real-world case studies using Python, Pandas, Seaborn, 
 
 ## ✨ Author
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 abdur.form123@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/abdur-rehman-181567188/) 
